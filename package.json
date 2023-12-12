@@ -8,10 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "typescript": "^4.0.2"
-  },
+  "license": "ISC", 
   "dependencies": {
     "@types/cors": "^2.8.6",
     "@types/express": "^4.17.3",
